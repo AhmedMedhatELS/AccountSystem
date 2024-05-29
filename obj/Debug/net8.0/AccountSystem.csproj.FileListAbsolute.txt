@@ -1,0 +1,14 @@
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\bin\Debug\net8.0\AccountSystem.exe
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\bin\Debug\net8.0\AccountSystem.deps.json
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\bin\Debug\net8.0\AccountSystem.runtimeconfig.json
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\bin\Debug\net8.0\AccountSystem.dll
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\bin\Debug\net8.0\AccountSystem.pdb
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\AccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\AccountSystem.AssemblyInfoInputs.cache
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\AccountSystem.AssemblyInfo.cs
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\AccountSystem.csproj.CoreCompileInputs.cache
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\AccountSystem.dll
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\refint\AccountSystem.dll
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\AccountSystem.pdb
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\AccountSystem.genruntimeconfig.cache
+F:\SD\EraaSoft\Tasks\s4\AccountSystem\obj\Debug\net8.0\ref\AccountSystem.dll
